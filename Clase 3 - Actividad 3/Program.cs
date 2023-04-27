@@ -4,6 +4,9 @@
     {
         static void Main(string[] args)
         {
+            /*
+            3)	Calcular ab por productos sucesivos.
+            */
             Console.Write("Ingrese el valor Base ");
             int A = int.Parse(Console.ReadLine());
 
